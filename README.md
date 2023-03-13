@@ -2,8 +2,7 @@
 - 👀 I’m interested in learning about the bits of this world. I am very enthusiastic about learning ros2 and django.
 - 🌱 I’m currently learning flutter.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : mail me at bhaskar25903@gmail.com
--                       
+- 📫 How to reach me : mail me at bhaskar25903@gmail.com                     
 
 <!---
 AnurajBhaskar47/AnurajBhaskar47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

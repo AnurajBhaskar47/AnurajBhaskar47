@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnurajBhaskar47
-- 👀 I’m interested in learning about the bits of this world. I am very enthusiastic about learning blockchain, django and app development.
+- 👀 I’m interested in learning about the bits of this world. I am very enthusiastic about learning ros2 and django.
 - 🌱 I’m currently learning flutter.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : mail me at bhaskar25903@gmail.com

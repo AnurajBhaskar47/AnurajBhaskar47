@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnurajBhaskar47
-- 👀 I’m interested in learning about the bits of this world. I am very enthusiastic about learning ros2 and django.
-- 🌱 I’m currently learning flutter.
+- 👀 I’m interested in learning about the bits of this world. I am very enthusiastic about learning ros2, nodejs, next-gen tech.
+- 🌱 I’m currently learning deep learning based applications on ROS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : mail me at bhaskar25903@gmail.com                     
 

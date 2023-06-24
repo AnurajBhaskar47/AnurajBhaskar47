@@ -11,7 +11,7 @@
 - 📖  I’m currently learning deep learning-based applications on ROS.
 -  🌱 I’m enrolled in Mechanical engineering at IIT Guwahati.
 - 💞️ I’m looking to collaborate on web development & AI model testing.
-- 📫 How to reach me: mail me at bhaskar25903@gmail.com or b.anuraj@iitg.ac.in
+- 📫 You can reach me at my email bhaskar25903@gmail.com or b.anuraj@iitg.ac.in
 
  ![Codeforces](https://raw.githubusercontent.com/Pranjal-g083/Codeforces/main/output/light_card.svg#gh-dark-mode-only)
 

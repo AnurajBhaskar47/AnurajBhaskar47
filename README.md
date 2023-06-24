@@ -8,9 +8,19 @@
 </div>
 
 - 👀 I’m interested in learning about the bits of this world. I am very enthusiastic about learning ros2, nodejs, next-gen tech.
-- 🌱 I’m currently learning deep learning-based applications on ROS.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: mail me at bhaskar25903@gmail.com                     
+- 📖  I’m currently learning deep learning-based applications on ROS.
+-  🌱 I’m enrolled in Mechanical engineering at IIT Guwahati.
+- 💞️ I’m looking to collaborate on web development & AI model testing.
+- 📫 How to reach me: mail me at bhaskar25903@gmail.com or b.anuraj@iitg.ac.in
+
+ ![Codeforces](https://raw.githubusercontent.com/Pranjal-g083/Codeforces/main/output/light_card.svg#gh-dark-mode-only)
+
+![codeforces max rating](https://raw.githubusercontent.com/Pranjal-g083/Codeforces/main/output/max_rating.svg)
+![codechef max rating](https://raw.githubusercontent.com/Pranjal-g083/Codeforces/main/output/codechef.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjal-g083&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Pranjal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranjal-g083&show_icons=true&theme=radical)
+                  
 
 <!---
 AnurajBhaskar47/AnurajBhaskar47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

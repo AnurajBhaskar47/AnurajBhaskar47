@@ -13,7 +13,7 @@
 - 💞️ I’m looking to collaborate on web development & AI model testing.
 - 📫 You can reach me at my email bhaskar25903@gmail.com or b.anuraj@iitg.ac.in
 
- <--![Codeforces](https://raw.githubusercontent.com/Pranjal-g083/Codeforces/main/output/light_card.svg#gh-dark-mode-only)-->
+ <!-- [Codeforces](https://raw.githubusercontent.com/Pranjal-g083/Codeforces/main/output/light_card.svg#gh-dark-mode-only)-->
 
 ![codeforces max rating](https://raw.githubusercontent.com/Pranjal-g083/Codeforces/main/output/max_rating.svg)
 ![codechef max rating](https://raw.githubusercontent.com/Pranjal-g083/Codeforces/main/output/codechef.svg)

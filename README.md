@@ -15,8 +15,8 @@
 
  <!-- [Codeforces](https://raw.githubusercontent.com/Pranjal-g083/Codeforces/main/output/light_card.svg#gh-dark-mode-only)-->
 
-![codeforces max rating](https://raw.githubusercontent.com/Pranjal-g083/Codeforces/main/output/max_rating.svg)
-![codechef max rating](https://raw.githubusercontent.com/Pranjal-g083/Codeforces/main/output/codechef.svg)
+<!--![codeforces max rating](https://raw.githubusercontent.com/Pranjal-g083/Codeforces/main/output/max_rating.svg)-->
+<!--![codechef max rating](https://raw.githubusercontent.com/Pranjal-g083/Codeforces/main/output/codechef.svg)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnurajBhaskar47&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anuraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnurajBhaskar47&show_icons=true&theme=radical)

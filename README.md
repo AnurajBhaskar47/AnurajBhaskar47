@@ -7,8 +7,8 @@
   
 </div>
 
-- 👀 I’m interested in learning about the bits of this world. I am very enthusiastic about learning ros2, nodejs, next-gen tech.
-- 📖  I’m currently learning deep learning-based applications on ROS.
+- 👀 I’m interested in learning about the bits of this world. I am very enthusiastic about learning deep learning, nodejs, next-gen tech.
+- 📖  I’m currently learning deep learning based-applications for filtering noise.
 -  🌱 I’m enrolled in Mechanical engineering at IIT Guwahati.
 - 💞️ I’m looking to collaborate on web development & AI model testing.
 - 📫 You can reach me at my email bhaskar25903@gmail.com or b.anuraj@iitg.ac.in

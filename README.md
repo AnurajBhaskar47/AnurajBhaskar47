@@ -9,8 +9,8 @@
 
 - 👀 I’m interested in learning about the bits of this world. I am very enthusiastic about learning deep learning, nodejs, next-gen tech.
 - 📖  I’m currently learning about cloud infrastructure development and backend engineering.
--  🌱 I’m enrolled in Mechanical engineering at IIT Guwahati.
-- 💞️ I’m looking to collaborate on web development & application stress testing.
+- 🌱 I’m enrolled in Mechanical engineering at IIT Guwahati.
+- 🖥️ I’m looking to collaborate on web development & application stress testing.
 - 📫 You can reach me at my email bhaskar25903@gmail.com or b.anuraj@iitg.ac.in
 
  <!-- [Codeforces](https://raw.githubusercontent.com/Pranjal-g083/Codeforces/main/output/light_card.svg#gh-dark-mode-only)-->

@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Anuraj Bhaskar
 
 <!--- - 👀 I’m interested in learning about the bits of this world. I am very enthusiastic about learning deep learning, nodejs, next-gen tech.--->
-- 📖  I’m currently learning about cloud infrastructure development and backend engineering.
+- 📖 I’m currently working in cloud infrastructure development and backend engineering.
 - 🖥️ I’m looking to collaborate on web development & agentic frameworks.
 - 📫 You can reach me at my email bhaskar25903@gmail.com.
 

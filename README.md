@@ -1,13 +1,6 @@
 # 👋 Hi, I’m Anuraj Bhaskar
-<div id="badges">
-  <a href="https://in.linkedin.com/in/anuraj-bhaskar-92ba73152">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Pranjal-g083&style=flat-square&color=blue" alt=""/>
-  
-</div>
 
-- 👀 I’m interested in learning about the bits of this world. I am very enthusiastic about learning deep learning, nodejs, next-gen tech.
+<!--- - 👀 I’m interested in learning about the bits of this world. I am very enthusiastic about learning deep learning, nodejs, next-gen tech.--->
 - 📖  I’m currently learning about cloud infrastructure development and backend engineering.
 - 🖥️ I’m looking to collaborate on web development & agentic frameworks.
 - 📫 You can reach me at my email bhaskar25903@gmail.com.
